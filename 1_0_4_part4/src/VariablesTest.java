@@ -10,5 +10,7 @@ public class VariablesTest {
 		age = 40 + 7;
 		
 		System.out.println(age);
+		
+		System.out.println("The Age is " + age + " years old. ");
 	}
 }
