@@ -7,6 +7,11 @@ public class TestaValores {
 		
 		segundo = primeiro;
 		
+		primeiro = 10;
+				
+		int terceiro = primeiro;
+		
 		System.out.println(segundo);
+		System.out.println(terceiro);
 	}
 }
