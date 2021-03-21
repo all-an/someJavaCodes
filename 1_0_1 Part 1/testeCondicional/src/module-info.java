@@ -1,2 +1,3 @@
 module testeCondicional {
+	exports testeCondicional;
 }
